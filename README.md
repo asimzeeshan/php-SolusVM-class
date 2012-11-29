@@ -4,7 +4,7 @@ PHP5 SolusVM Wrapper class (project moved from http://code.google.com/p/php-solu
 
 ### Introduction =
 
-*php-solusvm* is a PHP wrapper class around the SolusVM Client API (http://wiki.solusvm.com/index.php/API:Client) for reading individual VPS status.
+*php-solusvm* is a PHP wrapper class around the SolusVM Client API (http://docs.solusvm.com/client_api) for reading individual VPS status.
 
 ### How to use?
 
