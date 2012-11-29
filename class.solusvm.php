@@ -114,6 +114,7 @@ class SolusVM_API {
 		}
 	}
 	
+    // candidate for deletion
 	public function debug() {
 		$tmp = array();
 		if ($this->isError() == false) {
